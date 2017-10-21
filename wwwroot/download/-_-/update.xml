@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Updater>
+	<update appId="WinTiff">
+		<latestVersion>1.0.3.0</latestVersion>
+		<latestVersionUrl>http://www.winition.com/download/-_-/WinTiff-Setup.msi</latestVersionUrl>
+		<fileName>WinTiff-Setup.msi</fileName>
+		<md5>697035c332ec427f899bc9e3b3c82c3e</md5>
+		<description>Some new features :D</description>
+		<launchArgs></launchArgs>
+	</update>
+</Updater>
